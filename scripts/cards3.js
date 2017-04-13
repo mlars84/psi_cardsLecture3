@@ -51,7 +51,7 @@ var deck = [
   { number: 11, suit: 'clubs' },
   { number: 12, suit: 'clubs' },
   { number: 13, suit: 'clubs' }
-]
+];
 
 $( document ).ready( function(){
   $( '#drawCardFromBottom' ).on( 'click', function(){
